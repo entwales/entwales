@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Registrar.html",
+    "currentPage": "Awards.html",
     "versionFirst": "3.6.1",
     "uniqCompNum": 131,
     "versionPublish": "4.9.3",
@@ -1906,7 +1906,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/543d35ca-75d0-314b-9d1e-736ffcce5c5b-1280x720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/university-hospital-of-wales-heath-park-cardiff-geograph.org.uk-1736088-1200x789.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1923,7 +1923,7 @@
               "size": 0
             }
           },
-          "title": "UHW",
+          "title": "University Hopsital Wales",
           "text": "UHW was seen to have made great progress in the quality of training in a busy unit.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -2053,7 +2053,7 @@
               "size": 0
             }
           },
-          "title": "UHW",
+          "title": "University Hospital Wales",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
