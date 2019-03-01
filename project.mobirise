@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "Awards.html",
+    "currentPage": "Registrar.html",
     "versionFirst": "3.6.1",
-    "uniqCompNum": 131,
+    "uniqCompNum": 134,
     "versionPublish": "4.9.3",
     "name": "ENT Wales",
     "theme": {
@@ -141,13 +141,46 @@
           "_name": "header3",
           "_anchor": "header3-19",
           "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
+            "showMeta": false,
+            "paddingTop": "6",
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "<span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\"><br></span><br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">Next Conference&nbsp;</span><br>",
+          "title": "ENT Wales",
           "meta": ""
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>ENT Wales is the official association of Ear, Nose and Throat surgeons working in Wales. Formerly known as the Welsh Oto-Rhino-Laryngological Association (WORLA). The first meeting was held on the 23rd April at the Metropole Hotel, Llandrindod Wells in 1967.</p><p><br></p><p>Every October a conference is held in North, South or West Wales for Welsh trainees to present their research work to the Consultant body. An evening dinner follows.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3o"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "title": "<br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">Next Conference&nbsp;</span><br>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3p"
         },
         {
           "_styles": {
@@ -568,17 +601,61 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-38\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-c\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page11.html\">Abstract Submission</a></li>"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/duncan-ingrams2-512x512.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Chairmam Mr Duncan Ingrams",
+          "text": "Welcome to ENT  Wales/Cymru. We are a professional association representing Otolaryngology – Head &amp; Neck surgery within Wales. Our membership is open to all practising consultants in Wales and there is associate membership for Non consultant grade career doctors.<br> <br>We are able to offer the advice of the profession to the Welsh Government and work closely with other UK wide bodies.<br> <br>Our annual autumn meeting showcases the best in Specialist trainee presentation, and there is a separate competition for core and other trainees.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-7",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "32px"
+            }
           },
-          "text": "<p>ENT Wales is the official association of Ear, Nose and Throat surgeons working in Wales. Formerly known as the Welsh Oto-Rhino-Laryngological Association (WORLA). The first meeting was held on the 23rd April at the Metropole Hotel, Llandrindod Wells in 1967.</p><p><br></p><p>Every October a conference is held in North, South or West Wales for Welsh trainees to present their research work to the Consultant body. An evening dinner follows.</p>"
+          "_anchor": "msg-box5-3n"
         },
         {
           "_tags": [
@@ -594,7 +671,7 @@
             "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "columns": "3",
+            "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -610,34 +687,32 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mr-duncan-ingrams-600x630-22.png",
+              "src": "@PROJECT_PATH@/assets/images/berry-150x210.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
-          "title1": "Duncan Ingrams",
-          "subtitle1": "Chairman",
+          "title1": "Sandeep Berry",
+          "subtitle1": "Secretary",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/69613-600x840-87.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sanu-432x336.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
-          "title2": "Sandeep Berry",
-          "subtitle2": "Secretary&nbsp;",
+          "title2": "<p>Ameeth Sanu&nbsp;</p>",
+          "subtitle2": "Treasurer",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -2985,7 +3060,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">If you plan to embark on any overseas training you may be eligible to apply for the ENT Wales Travel award.&nbsp;</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Applications for the ENT Wales Travelling Fellowship are invited from surgical trainees based in Wales or who undertook their research in Wales.  The Fellowship provides funding for travel abroad to present a body of research or for a period of further training.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">The guidance notes and application form can be downloaded from <a href=\"assets/files/ent-wales-application-form.doc\" target=\"_blank\" class=\"text-danger\">here</a>. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><br></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">If you plan to embark on any overseas training you may be eligible to apply for the ENT Wales Travel award.&nbsp;</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Applications for the ENT Wales Travelling Fellowship are invited from surgical trainees based in Wales or who undertook their research in Wales.  The Fellowship provides funding for travel abroad to present a body of research or for a period of further training.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">The guidance notes and application form can be downloaded from <a href=\"assets/files/Introduction%20Document%20v%205%20%20agreed%20October%202018.docx\" target=\"_blank\" class=\"text-danger\">here</a>. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><br></p>"
         },
         {
           "_tags": [

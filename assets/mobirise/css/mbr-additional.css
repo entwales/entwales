@@ -731,6 +731,10 @@ h6,
 #header3-19 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-3p .mbr-section-title,
+#header3-3p .mbr-section-subtitle {
+  text-align: center;
+}
 #content5-2v .mbr-section-title,
 #content5-2v p {
   color: #fff;
@@ -806,6 +810,9 @@ h6,
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#msg-box5-3n H3 {
+  font-size: 32px;
 }
 #header3-2o .mbr-section-title,
 #header3-2o .mbr-section-subtitle {
