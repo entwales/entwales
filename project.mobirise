@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Registrar.html",
+    "currentPage": "juniordoctors.html",
     "versionFirst": "3.6.1",
     "uniqCompNum": 134,
     "versionPublish": "4.9.3",
@@ -171,7 +171,7 @@
           "_params": {
             "showMeta": true,
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "title": "<br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">Next Conference&nbsp;</span><br>",
@@ -4081,7 +4081,7 @@
               "size": 0
             }
           },
-          "title": "Cardiff DOHNS Course: Focused Communication Skills for DOHNS&nbsp;",
+          "title": "<span style=\"font-weight: normal;\">Cardiff DOHNS Course: Focused Communication Skills for DOHNS&nbsp;</span>",
           "text": "This half-day course will allow the delegate to prepare for the communication skills component of the DOHNS MRCS Part B (OSCE) / MRCS (ENT) examination in a focused and friendly setting. Each delegate will receive one-to-one tuition, enabling him or her to identify areas of weakness within this field and to improve upon these.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
