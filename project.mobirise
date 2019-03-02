@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "juniordoctors.html",
+    "currentPage": "index.html",
     "versionFirst": "3.6.1",
-    "uniqCompNum": 134,
+    "uniqCompNum": 135,
     "versionPublish": "4.9.3",
     "name": "ENT Wales",
     "theme": {
@@ -288,11 +288,6 @@
           "meta": ""
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-15",
           "_params": {
             "showImages": true,
             "showTitles": false,
@@ -303,10 +298,10 @@
             "paddingBottom": "0",
             "columns": "6",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -317,99 +312,105 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2016-10-20-11-600x853-38.png",
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-03-02-11.20.07-600x859.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.dropbox.com/s/sn67tpxkbaahmjt/ENT%20WALES_2016.pdf?dl=0",
+              "link": "assets/files/ENT%20WALES_2013.pdf",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2016-10-20-12-600x876-9.png",
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-03-02-11.20.53-600x858.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.dropbox.com/s/tkmk9poi6dbpz0l/ENT%20WALES_2015.pdf?dl=0",
+              "link": "assets/files/Programme%20ENT%20WALES_2014%20081014%20pm.pdf",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
             }
           },
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2016-10-20-12-600x894-66.png",
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-03-02-11.21.16-600x859.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.dropbox.com/s/x25lki79c2y7tbr/Programme%20ENT%20WALES_2014%20081014%20pm.pdf?dl=0",
+              "link": "assets/files/Programme%20ENT%20WALES_2014%20081014%20pm.pdf",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
             }
           },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2016-10-20-12-600x875-40.png",
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-03-02-11.21.44-600x860.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.dropbox.com/s/1gvqm6vw3jbttdn/ENT%20WALES_2013.pdf?dl=0",
+              "link": "assets/files/ENT%20WALES_2016.pdf",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
             }
           },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-03-02-11.22.23-600x855.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/Programme%202017.pdf",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-03-02-11.22.43-600x852.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "assets/files/ENT%20Wales%20Programme%202018.pdf",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "title1": "Ali Al-Hussaini",
+          "subtitle1": "Winner of Senior Trainee Presentation",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Dan",
+          "subtitle2": "Winner of Junior Presentation Prize",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Joanna",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2018-10-19-14.43.30-600x828.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://www.dropbox.com/s/uapcs6sd1yxpiun/Programme%202017.pdf?dl=0",
-              "alt": "",
-              "title": ""
-            }
-          },
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2018-10-19-14.56.53-600x849.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://www.dropbox.com/s/rrnc6nsgit6gzvx/ENT%20Wales%20Programme%202018.pdf?dl=0",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": true
-            }
-          },
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-3q"
         },
         {
           "_tags": [
