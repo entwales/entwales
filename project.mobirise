@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "page13.html",
     "versionFirst": "3.6.1",
-    "uniqCompNum": 131,
+    "uniqCompNum": 132,
     "versionPublish": "4.9.3",
     "name": "ENT Wales",
     "theme": {
@@ -37,7 +37,20 @@
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "gdpr": "",
-    "сanonical-url": ""
+    "сanonical-url": "",
+    "mcShopcart": {
+      "email": "mcleodrwj@googlemail.com",
+      "iconSize": "30",
+      "iconColor": "#FFFFFF",
+      "backColor": "#000000",
+      "topOffset": "120",
+      "rightOffset": "20",
+      "siteWidth": "1150",
+      "counterSize": "12",
+      "counterColor": "#FFFFFF",
+      "counterBack": "#F97352",
+      "checkoutButton": "Check out with"
+    }
   },
   "pages": {
     "About.html": {
@@ -4860,7 +4873,7 @@
           ],
           "_name": "extToggle1",
           "_anchor": "extToggle1-3o",
-          "_customHTML": "<section class=\"mbr-section extToggle1 mbr-after-navbar\" data-rv-view=\"45\" style=\"background-color: rgb(255, 255, 255); padding-top: 100px; padding-bottom: 100px;\">\n\n    \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-10 col-md-offset-1\">\n                    <div class=\"section-head text-center space30\">\n                        <h1 class=\"mbr-editable-content\" code-editable-id=\"52\">Toggle FAQ</h1>\n                    </div>\n                    <div class=\"clearfix\"></div>\n                    <div id=\"toggle\" class=\"toggle-panel accordionStyles tab-content\">\n                        <div class=\"toggle-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" id=\"headingOne\">\n                                <span class=\"signSpan pseudoMinus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"53\"><a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-3o\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is Mobirise?</a></h4>\n                            </div>\n                            <div id=\"collapseOneextToggle1-3o\" class=\"panel-collapse noScroll collapse in\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"54\"><p>Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.</p></div>\n                            </div>\n                        </div>\n                        <div class=\"toggle-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" id=\"headingTwo\">\n                                <span class=\"signSpan pseudoPlus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"55\"><a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseTwoextToggle1-3o\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Is it good for me?</a></h4>\n                            </div>\n                            <div id=\"collapseTwoextToggle1-3o\" class=\"panel-collapse noScroll collapse\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"56\"><p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p></div>\n                            </div>\n                        </div>\n                        <div class=\"toggle-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" id=\"headingThree\">\n                                <span class=\"signSpan pseudoPlus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"57\"><a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseThreeextToggle1-3o\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Why Mobirise?</a></h4>\n                            </div>\n                            <div id=\"collapseThreeextToggle1-3o\" class=\"panel-collapse noScroll collapse\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"58\"><p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p><br><br><p><br></p></div>\n                            </div>\n                        </div>\n                        \n                     <iframe width=\"640px\" height=\"480px\" src=\"https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vGk2xQMm3hJLsrKLVFb_fNNUQTdBR1dFN1FSVFBBNFI5R0FSMzg4MEg5US4u&amp;embed=true\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" style=\"border: none; max-width:100%; max-height:100vh\" allowfullscreen=\"\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" msallowfullscreen=\"\"> </iframe>   \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section extToggle1 mbr-after-navbar\" data-rv-view=\"45\" style=\"background-color: rgb(255, 255, 255); padding-top: 100px; padding-bottom: 100px;\">\n\n    \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-10 col-md-offset-1\">\n                    <div class=\"section-head text-center space30\">\n                        <h1 class=\"mbr-editable-content\" code-editable-id=\"134\">Toggle FAQ</h1>\n                    </div>\n                    <div class=\"clearfix\"></div>\n                    <div id=\"toggle\" class=\"toggle-panel accordionStyles tab-content\">\n                        <div class=\"toggle-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" id=\"headingOne\">\n                                <span class=\"signSpan pseudoMinus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"135\"><a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-3o\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is Mobirise?</a></h4>\n                            </div>\n                            <div id=\"collapseOneextToggle1-3o\" class=\"panel-collapse noScroll collapse in\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"136\"><p>Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.</p></div>\n                            </div>\n                        </div>\n                        <div class=\"toggle-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" id=\"headingTwo\">\n                                <span class=\"signSpan pseudoPlus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"137\"><a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseTwoextToggle1-3o\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Is it good for me?</a></h4>\n                            </div>\n                            <div id=\"collapseTwoextToggle1-3o\" class=\"panel-collapse noScroll collapse\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"138\"><p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p></div>\n                            </div>\n                        </div>\n                        <div class=\"toggle-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" id=\"headingThree\">\n                                <span class=\"signSpan pseudoPlus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"139\"><a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseThreeextToggle1-3o\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Why Mobirise?</a></h4>\n                            </div>\n                            <div id=\"collapseThreeextToggle1-3o\" class=\"panel-collapse noScroll collapse\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"140\"><p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p><br><br><p><br></p></div>\n                            </div>\n                        </div>\n                        \n                     <iframe width=\"640px\" height=\"480px\" src=\"https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vGk2xQMm3hJLsrKLVFb_fNNUQTdBR1dFN1FSVFBBNFI5R0FSMzg4MEg5US4u&amp;embed=true\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" style=\"border: none; max-width:100%; max-height:100vh\" allowfullscreen=\"\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" msallowfullscreen=\"\"> </iframe>   \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
@@ -5007,6 +5020,116 @@
           ],
           "_name": "pro.custom-html",
           "_anchor": "custom-html-3q"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showIcons": true,
+            "firstType": "",
+            "secondType": "",
+            "thirdType": "primary",
+            "fourthType": "",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff;",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRICING TABLE",
+          "subtitle": "Pricing table with four columns and solid color background.",
+          "title1": "STANDARD",
+          "title2": "BUSINESS",
+          "title3": "PREMIUM",
+          "title4": "ULTIMATE",
+          "subtitle1": "Description",
+          "subtitle2": "Description",
+          "subtitle3": "Description",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=40&amp;item_name=evening+dinner&amp;currency_code=GBP\" target=\"_blank\">10</a>",
+          "price2": "10",
+          "price3": "10",
+          "price4": "10",
+          "period1": "monthly",
+          "period2": "monthly",
+          "period3": "monthly",
+          "period4": "monthly",
+          "description1": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extPricingTable1",
+          "_anchor": "extPricingTable1-3n"
         }
       ]
     }
