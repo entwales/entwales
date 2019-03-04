@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Registrar.html",
+    "currentPage": "home.html",
     "versionFirst": "3.6.1",
     "uniqCompNum": 134,
     "versionPublish": "4.9.3",
@@ -386,7 +386,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2018<br>"
+          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2019<br>"
         }
       ]
     },
@@ -991,7 +991,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2018<br>"
+          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2019<br>"
         },
         {
           "_inherit": "menu",
@@ -1188,7 +1188,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2018<br>"
+          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2019<br>"
         },
         {
           "_styles": {
@@ -1269,7 +1269,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2018<br>"
+          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2019<br>"
         },
         {
           "_inherit": "menu",
@@ -2694,7 +2694,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2018<br>"
+          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2019<br>"
         }
       ]
     },
@@ -2909,7 +2909,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2018<br>"
+          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2019<br>"
         }
       ]
     },
@@ -3021,7 +3021,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2018<br>"
+          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2019<br>"
         },
         {
           "_styles": {
@@ -3467,7 +3467,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2018<br>",
+          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2019<br>",
           "_anchor": "footer1-32"
         }
       ]
@@ -3580,7 +3580,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2018<br>",
+          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2019<br>",
           "_anchor": "footer1-3b"
         },
         {
@@ -3753,7 +3753,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2018<br>",
+          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2019<br>",
           "_anchor": "footer1-3j"
         },
         {
@@ -4051,7 +4051,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2018<br>"
+          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2019<br>"
         }
       ]
     },
@@ -4163,7 +4163,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2018<br>",
+          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2019<br>",
           "_anchor": "footer1-3t"
         },
         {
@@ -4679,7 +4679,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/storz-384x131.png",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -4691,7 +4691,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/1200px-ambu-company-logo.svg-1200x390.png",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -4703,7 +4703,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/30-dp-logo-300x229.png",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -4715,7 +4715,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/smith-nephew-1-700x400.jpg",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -4727,7 +4727,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/rb-304x166.png",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -4739,7 +4739,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/magstim-logo2-800x248.png",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -4751,7 +4751,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/mylan-359x140.png",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -4766,7 +4766,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/download-271x186.jpg",
-                    "link": "https://mobirise.com",
+                    "link": "",
                     "active": true,
                     "alt": "",
                     "title": ""
@@ -4862,7 +4862,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2018<br>"
+          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2019<br>"
         }
       ]
     },
@@ -5031,7 +5031,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2018<br>",
+          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2019<br>",
           "_anchor": "footer1-3o"
         },
         {
