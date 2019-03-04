@@ -4778,7 +4778,7 @@
               }
             ]
           },
-          "title": "Sponsores",
+          "title": "Sponsors",
           "subtitle": "Many thanks for our 2018 conference sponsors",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -4813,7 +4813,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "CONTACT",
+          "title": "Contact",
           "subtitle": "We aim to keep the content of this website uptodate and relavent if you have a course/information/research you would like to add then please conduct us.",
           "form": {
             "action": "mcleodrwj@googlemail.com",
