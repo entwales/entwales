@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "juniordoctors.html",
+    "currentPage": "home.html",
     "versionFirst": "3.6.1",
-    "uniqCompNum": 133,
+    "uniqCompNum": 134,
     "versionPublish": "4.9.3",
     "name": "ENT Wales",
     "theme": {
@@ -4651,6 +4651,143 @@
           "_anchor": "features3-3q"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showArrows": true,
+            "showBullets": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/flight-mountains-sky-flying.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "visibleSlides": "6",
+            "slides": [
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/storz-384x131.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/1200px-ambu-company-logo.svg-1200x390.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/30-dp-logo-300x229.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/smith-nephew-1-700x400.jpg",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/rb-304x166.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/magstim-logo2-800x248.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/mylan-359x140.png",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                },
+                "image": "@PROJECT_PATH@/assets/images/magstim-logo2-800x248.png",
+                "alt": "",
+                "title": ""
+              },
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/download-271x186.jpg",
+                    "link": "https://mobirise.com",
+                    "active": true,
+                    "alt": "",
+                    "title": ""
+                  }
+                },
+                "image": "@PROJECT_PATH@/assets/images/smith-nephew-700x400.jpg",
+                "alt": "",
+                "title": ""
+              }
+            ]
+          },
+          "title": "Sponsores",
+          "subtitle": "Many thanks for our 2018 conference sponsors",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials5",
+          "_anchor": "extTestimonials5-3p"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -4665,8 +4802,8 @@
             "showTitle": true,
             "showSubTitle": true,
             "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
