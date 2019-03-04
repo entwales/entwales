@@ -2428,7 +2428,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Accordion FAQ",
-          "title1": "<b><a href=\"assets/files/Introduction Document v 5  agreed October 2018.docx\" target=\"_blank\" class=\"text-black\">Induction Document</a></b>",
+          "title1": "<b><a href=\"assets/files/Introduction Document v 5  agreed October 2018.docx\" target=\"_blank\" class=\"text-info\">Induction Document</a></b>",
           "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_142\" data-core=\"\" href=\"#collapseTwo_142\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Is it good for me?</a>",
           "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_142\" data-core=\"\" href=\"#collapseThree_142\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Why Mobirise?</a>",
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
