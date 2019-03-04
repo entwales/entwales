@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "MedicalStudents.html",
+    "currentPage": "Past Conferences.html",
     "versionFirst": "3.6.1",
-    "uniqCompNum": 134,
+    "uniqCompNum": 131,
     "versionPublish": "4.9.3",
     "name": "ENT Wales",
     "theme": {
@@ -23,9 +23,7 @@
         "isScrollToTopButton": true,
         "isRtl": false
       },
-      "additionalSetColors": [
-        "#f7f7f7"
-      ]
+      "additionalSetColors": []
     },
     "favicon": "@PROJECT_PATH@/assets/images/entwales-logo2.gif",
     "noImageResize": "",
@@ -484,22 +482,24 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/602380-10151452617559007-11428781-n-600x810-88.jpg",
+              "src": "@PROJECT_PATH@/assets/images/image-4-600x800.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/20181005-154951-600x800.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
@@ -529,10 +529,10 @@
           "title1": "Andrew Harris",
           "subtitle1": "Winner of Senior Trainee Presentation",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Darren Yap",
+          "title2": "Rhian Allen",
           "subtitle2": "Winner of Junior Presentation Prize",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Joanna Buckley",
+          "title3": "Rhian Allen",
           "subtitle3": "Winner of Poster Prize",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
