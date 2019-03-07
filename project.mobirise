@@ -471,7 +471,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-8171-600x589.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1791-600x800.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2195,7 +2195,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": 50,
+            "imageSize": "29",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -2215,7 +2215,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/img-1789-1400x1867.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -2230,7 +2233,7 @@
             }
           },
           "title": "<p>Andrew Harris<br>Trainee Rep 2019-20</p>",
-          "text": "ENT Training in Wales consistantly comes highest or high in training satifaction surveys",
+          "text": "There are 17 ENT higher surgical training posts in Wales. The majority of these are located in the major centres of Cardiff, Newport and Swansea; there are also single registrars working in Bridgend, Llantrisant, Carmarthen, Wrexham and Rhyl. Registrars rotate annually and have to train in a minimum of three centres ofver their six year programme.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
