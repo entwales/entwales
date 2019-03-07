@@ -1270,6 +1270,15 @@ h6,
 #ext_menu-2y .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box5-31 SPAN {
+  font-size: 24px;
+}
+#msg-box5-36 SPAN {
+  font-size: 24px;
+}
+#msg-box5-37 SPAN {
+  font-size: 24px;
+}
 #ext_menu-3a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1470,6 +1479,12 @@ h6,
 #ext_menu-1y .link[aria-expanded="true"],
 #ext_menu-1y .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#msg-box5-2p SPAN {
+  font-size: 24px;
+}
+#msg-box5-2q SPAN {
+  font-size: 24px;
 }
 #ext_menu-3s .hide-buttons .nav-btn {
   display: none !important;

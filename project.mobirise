@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Past Conferences.html",
+    "currentPage": "Awards.html",
     "versionFirst": "3.6.1",
     "uniqCompNum": 131,
     "versionPublish": "4.9.3",
@@ -265,7 +265,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sanu-432x336.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ameeth-sanu-600x750.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -471,7 +471,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-1791-600x800.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1791-467x644.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1886,7 +1886,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": 50,
+            "imageSize": "53",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -1906,7 +1906,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2019-03-07-20.06.17-716x542.png",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -2233,7 +2236,7 @@
             }
           },
           "title": "<p>Andrew Harris<br>Trainee Rep 2019-20</p>",
-          "text": "There are 17 ENT higher surgical training posts in Wales. The majority of these are located in the major centres of Cardiff, Newport and Swansea; there are also single registrars working in Bridgend, Llantrisant, Carmarthen, Wrexham and Rhyl. Registrars rotate annually and have to train in a minimum of three centres ofver their six year programme.",
+          "text": "There are 17 ENT higher surgical training posts in Wales. The majority of these are located in the major centres of Cardiff, Newport and Swansea; there are also single registrars working in Bridgend, Llantrisant, Carmarthen, Wrexham and Rhyl. Registrars rotate annually and have to train in a minimum of three centres over their six year programme.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -3345,7 +3348,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-31"
+          "_anchor": "msg-box5-31",
+          "_styles": {
+            "SPAN": {
+              "font-size": "24px"
+            }
+          }
         },
         {
           "_params": {
@@ -3398,7 +3406,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-36"
+          "_anchor": "msg-box5-36",
+          "_styles": {
+            "SPAN": {
+              "font-size": "24px"
+            }
+          }
         },
         {
           "_params": {
@@ -3451,7 +3464,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-37"
+          "_anchor": "msg-box5-37",
+          "_styles": {
+            "SPAN": {
+              "font-size": "24px"
+            }
+          }
         },
         {
           "_tags": [
@@ -3968,20 +3986,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-2p"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1v",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br></p>"
+          "_anchor": "msg-box5-2p",
+          "_styles": {
+            "SPAN": {
+              "font-size": "24px"
+            }
+          }
         },
         {
           "_params": {
@@ -4034,7 +4044,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-2q"
+          "_anchor": "msg-box5-2q",
+          "_styles": {
+            "SPAN": {
+              "font-size": "24px"
+            }
+          }
         },
         {
           "_tags": [
@@ -4198,7 +4213,7 @@
             "overlay": false,
             "overlayColor": "#000",
             "overlayOpacity": 0.5,
-            "visibleSlides": "4",
+            "visibleSlides": "2",
             "slides": [
               {
                 "active": false,
@@ -4218,17 +4233,19 @@
               },
               {
                 "active": true,
-                "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
-                "authorName": "Abanoub S.",
-                "authorBio": "User",
+                "text": "<p>\"In 2008 I entered Higher Surgical Training in Otolaryngology in Wales.  The experience, professionally and personally, was strongly positive and led to a happy and seamless progression to being a young Consultant in Wales.  During training the Consultant body were approachable, affable and expert.  The surgical exposure was broad and complex and by the end of the training programme I had completed more than 100 major head and neck cases, more than 100 major rhinological cases and more than 100 mastoid cases as principal surgeon.  Living in Wales is marvelous - the natural beauty of the country is well recognised and happily ubiquitous; the people are kind and humorous; and the cities are thriving.  Finally, and most importantly, the training was genuinely 'family-friendly' and never did I feel any pressure to put work ahead of family.  Over a decade later, I am a young Consultant in Wales and wholeheartedly recommend the country as a place to train, live and progress.”</p>",
+                "authorName": "Sam Fishpool",
+                "authorBio": "Consultant at Royal Glamorgan Hospital",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/fishpool-2.gif",
                     "class": "img-circle",
                     "link": "https://mobirise.com",
                     "height": 160,
                     "width": 160,
-                    "active": true
+                    "active": true,
+                    "alt": "",
+                    "title": ""
                   }
                 }
               },
@@ -4267,7 +4284,7 @@
             ]
           },
           "title": "Consultants Trained in Wales",
-          "subtitle": "Some statements from recently trained consultants",
+          "subtitle": "Statements from Consultants trained in Wales",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
