@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "Awards.html",
+    "currentPage": "welshtraining.html",
     "versionFirst": "3.6.1",
-    "uniqCompNum": 131,
+    "uniqCompNum": 132,
     "versionPublish": "4.9.3",
     "name": "ENT Wales",
     "theme": {
@@ -4197,7 +4197,7 @@
             "showName": true,
             "showBio": true,
             "autoplay": true,
-            "timeout": 5,
+            "timeout": "10",
             "paddingTop": "3",
             "paddingBottom": 1,
             "showBullets": true,
@@ -4284,7 +4284,7 @@
             ]
           },
           "title": "Consultants Trained in Wales",
-          "subtitle": "Statements from Consultants trained in Wales",
+          "subtitle": "Statements regarding training in Wales",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
