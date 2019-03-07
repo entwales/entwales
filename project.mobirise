@@ -4256,12 +4256,14 @@
                 "authorBio": "User",
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/img-1792-116x160.jpg",
                     "class": "img-circle",
                     "link": "https://mobirise.com",
                     "height": 160,
                     "width": 160,
-                    "active": true
+                    "active": true,
+                    "alt": "",
+                    "title": ""
                   }
                 }
               },
