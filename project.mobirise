@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "test.html",
+    "currentPage": "index.html",
     "versionFirst": "3.6.1",
-    "uniqCompNum": 134,
+    "uniqCompNum": 149,
     "versionPublish": "4.9.3",
     "name": "ENT Wales",
     "theme": {
@@ -56,7 +56,7 @@
     "About.html": {
       "settings": {
         "title": "About",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -391,7 +391,7 @@
     "Past Conferences.html": {
       "settings": {
         "title": "Past Conferences",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1082,7 +1082,7 @@
     "Privacy Policy.html": {
       "settings": {
         "title": "Privacy Policy and Cookies",
-        "order": 6,
+        "order": 7,
         "meta_descr": ""
       },
       "components": [
@@ -1228,7 +1228,7 @@
     "Awards.html": {
       "settings": {
         "title": "Awards",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -2075,7 +2075,7 @@
     "Registrar.html": {
       "settings": {
         "title": "Registrar",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -2707,7 +2707,7 @@
     "Research.html": {
       "settings": {
         "title": "Research",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -2922,7 +2922,7 @@
     "Resources.html": {
       "settings": {
         "title": "Resources",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -3167,7 +3167,7 @@
     "juniordoctors.html": {
       "settings": {
         "title": "Junior Doctors",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -3497,7 +3497,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Submission",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -3670,7 +3670,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Abstract new",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -3825,7 +3825,7 @@
     "MedicalStudents.html": {
       "settings": {
         "title": "Medical Students",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -4077,7 +4077,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Welsh Training",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -4354,7 +4354,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
@@ -4487,7 +4487,7 @@
             "showTitle": true,
             "countdown": "2019/08/01",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@-blocks/components/extFeatures1/images/jumbotron.jpg",
             "parallax": false,
@@ -4514,7 +4514,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe-uG-VNpnM2tVsZ8UL75m-BXW0QXmLmUos3TRP_3UuExwo5g/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register for ENT Wales</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSevXJAHWqq-3XxB8NxEYo2AXyDFy53Hl_m7Wb1io5lNOq0Whw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Payment Confirmation</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe-uG-VNpnM2tVsZ8UL75m-BXW0QXmLmUos3TRP_3UuExwo5g/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register for ENT Wales</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSevXJAHWqq-3XxB8NxEYo2AXyDFy53Hl_m7Wb1io5lNOq0Whw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Payment Confirmation</a>",
+          "_customHTML": "<section class=\"mbr-section extAccordion1 mbr-after-navbar\" data-rv-view=\"2731\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 0px;\">\n\n    \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-10 col-md-offset-1\">\n                    <div class=\"section-head text-center space30\">\n                        <h1 class=\"mbr-editable-content\" code-editable-id=\"3075\"><strong>Conference Booking and Payment</strong></h1>\n                    </div>\n                    <div class=\"clearfix\"></div>\n                    <div id=\"accordion_2161\" class=\"panel-group accordionStyles accordion\" role=\"tablist\" aria-multiselectable=\"true\">\n                      <div class=\"accordion-group\">\n                        <div class=\"panel panel-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" role=\"tab\" id=\"headingOne\">\n                                <span class=\"signSpan pseudoPlus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"3076\"><a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2161\" data-core=\"\" href=\"#collapseOne_2161\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Consultant</a></h4>\n                            </div>\n                            <div id=\"collapseOne_2161\" class=\"panel-collapse noScroll collapse\" role=\"tabpanel\" aria-labelledby=\"headingOne\" aria-expanded=\"false\">\n                                \n                                \n                                \n                                \n                                \n<section class=\"mbr-cards mbr-section mbr-section-nopadding mbr-after-navbar\" data-rv-view=\"2797\" style=\"background-color: rgb(255, 255, 255);\">\n\n    \n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-6\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n              <div class=\"card cart-block\">\n                  \n                  <div class=\"card-block\">\n                    <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"3077\">Consultant</h4>\n                    <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"3078\">Including Friday, Saturday as well as Evening meal</h5>\n                    <p class=\"card-text mbr-editable-content\" code-editable-id=\"3079\"><strong>£150 </strong></p>\n                    <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"8DL9DTWLQ4DG4\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal – The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_GB/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-6\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    \n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"3080\">Consultant Attendance + Partner&nbsp;</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"3081\">Attendance on Friday, Saturday as well as Evening meal for two</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"3082\"><strong>£190</strong></p>\n                        \n                        <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"8DL9DTWLQ4DG4\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal – The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_GB/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n        \n        \n    </div>\n</section>\n                                \n                                \n                                \n                                \n                                \n                            </div>\n                        </div>\n                        <div class=\"panel panel-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" role=\"tab\" id=\"headingTwo\">\n                                <span class=\"signSpan pseudoPlus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"3083\"><a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_2161\" data-core=\"\" href=\"#collapseTwo_2161\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">ENT Specialist Trainees</a></h4>\n                            </div>\n                            <div id=\"collapseTwo_2161\" class=\"panel-collapse noScroll collapse\" role=\"tabpanel\" aria-labelledby=\"headingTwo\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"3084\"><p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p></div>\n                            </div>\n                        </div>\n                        <div class=\"panel panel-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" role=\"tab\" id=\"headingThree\">\n                                <span class=\"signSpan pseudoPlus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"3085\"><a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2161\" data-core=\"\" href=\"#collapseThree_2161\" aria-expanded=\"true\" aria-controls=\"collapseThree\">All other Junior Doctors and Allied Health Professionals</a></h4>\n                            </div>\n                            <div id=\"collapseThree_2161\" class=\"panel-collapse noScroll collapse\" role=\"tabpanel\" aria-labelledby=\"headingThree\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"3086\"><p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p></div>\n                            </div>\n                        </div>\n                        \n                        \n                        \n                      </div>    \n                    </div>\n                </div>\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_tags": [
@@ -4527,7 +4532,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Please note: </b><span style=\"font-size: 1.07rem; line-height: 1.5;\">People who have registered to attend will receive reminder emails until they have paid and &nbsp;clicked on the payment confirmation form above. &nbsp;Additionally some hospital computers may not allow you to open these links, if this is the case please access from a alternative computer. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br></p>"
+          "text": "<p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Please note: </b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Once payment has been completed you will be forward to a form to collect details of meal options (if applicable). If there are problems accessing the form please contact us via contact section below. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><br></p>"
         },
         {
           "_styles": {
@@ -4892,7 +4897,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "testpage",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -4995,6 +5000,51 @@
         {
           "_params": {
             "showTitle": true,
+            "collapseAll": false,
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "Accordion FAQ",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is Mobirise?</a>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Is it good for me?</a>",
+          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Why Mobirise?</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p>Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.</p>",
+          "text2": "<p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p>",
+          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extAccordion1",
+          "_anchor": "extAccordion1-3w",
+          "_customHTML": "<section class=\"mbr-section extAccordion1 mbr-after-navbar\" data-rv-view=\"2463\" style=\"background-color: rgb(255, 255, 255); padding-top: 100px; padding-bottom: 100px;\">\n\n    \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-10 col-md-offset-1\">\n                    <div class=\"section-head text-center space30\">\n                        <h1 class=\"mbr-editable-content\" code-editable-id=\"1894\">Accordion FAQ</h1>\n                    </div>\n                    <div class=\"clearfix\"></div>\n                    <div id=\"accordion_1363\" class=\"panel-group accordionStyles accordion\" role=\"tablist\" aria-multiselectable=\"true\">\n                      <div class=\"accordion-group\">\n                        <div class=\"panel panel-default colorBG\" style=\"display: block;\">\n                            <div class=\"panel-heading\" role=\"tab\" id=\"headingOne\">\n                                <span class=\"signSpan pseudoMinus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"1895\"><a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_1363\" data-core=\"\" href=\"#collapseOne_1363\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is Mobirise?</a></h4>\n                            </div>\n                            <div id=\"collapseOne_1363\" class=\"panel-collapse noScroll collapse in\" role=\"tabpanel\" aria-labelledby=\"headingOne\">\n                               <section class=\"mbr-section mbr-section-hero mbr-section-full extPricingTable1 mbr-after-navbar\" data-rv-view=\"394\" style=\"padding-top: 120px; padding-bottom: 120px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                \n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1896\">HOT!</div>\n                      <div class=\"card-title\">\n                        \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"1897\">Conference Attendance Consultant</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"1898\"></small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"1899\"> </span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"1900\">£40</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"1901\">&nbsp;</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"1902\">Consultant attendence for ENT Wales Members</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"1903\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul></div>\n                        \n                        <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"5CY6Y8HSNCFX8\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal – The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_GB/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n               </div>       \n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1904\">HOT!</div>\n                      <div class=\"card-title\">\n                      \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"1905\">BUSINESS</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"1906\">Description</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"1907\">$</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"1908\">10</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"1909\">monthly</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"1910\">Mobirise is perfect for non-techies who are not familiar with web development.</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"1911\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"1912\">DEMO</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1913\">HOT!</div>\n                      <div class=\"card-title\">\n                        \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"1914\">PREMIUM</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"1915\">Description</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"1916\">$</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"1917\">10</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"1918\">monthly</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"1919\">Mobirise is perfect for non-techies who are not familiar with web development.</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"1920\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"1921\">DEMO</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1922\">HOT!</div>\n                      <div class=\"card-title\">\n                        \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"1923\">ULTIMATE</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"1924\">Description</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"1925\">$</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"1926\">10</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"1927\">monthly</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"1928\">Mobirise is perfect for non-techies who are not familiar with web development.</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"1929\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"1930\">DEMO</a></div>\n                    </div>\n                </div>\n            </div>\n          </div>\n    </div>\n\n</section>\n                                \n                                \n                            </div>\n                        </div>\n                        <div class=\"panel panel-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" role=\"tab\" id=\"headingTwo\">\n                                <span class=\"signSpan pseudoPlus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"1931\"><a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_1363\" data-core=\"\" href=\"#collapseTwo_1363\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Is it good for me?</a></h4>\n                            </div>\n                            <div id=\"collapseTwo_1363\" class=\"panel-collapse noScroll collapse\" role=\"tabpanel\" aria-labelledby=\"headingTwo\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"1932\"><p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p></div>\n                            </div>\n                        </div>\n                        <div class=\"panel panel-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" role=\"tab\" id=\"headingThree\">\n                                <span class=\"signSpan pseudoPlus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"1933\"><a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_1363\" data-core=\"\" href=\"#collapseThree_1363\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Why Mobirise?</a></h4>\n                            </div>\n                            <div id=\"collapseThree_1363\" class=\"panel-collapse noScroll collapse\" role=\"tabpanel\" aria-labelledby=\"headingThree\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"1934\"><p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p></div>\n                            </div>\n                        </div>\n                        \n                        \n                        \n                      </div>    \n                    </div>\n                </div>\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showTitle": true,
             "tabs": "3",
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -5030,11 +5080,112 @@
           ],
           "_name": "extToggle1",
           "_anchor": "extToggle1-3o",
-          "_customHTML": "<section class=\"mbr-section extToggle1 mbr-after-navbar\" data-rv-view=\"45\" style=\"background-color: rgb(255, 255, 255); padding-top: 100px; padding-bottom: 100px;\">\n\n    \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-10 col-md-offset-1\">\n                    <div class=\"section-head text-center space30\">\n                        <h1 class=\"mbr-editable-content\" code-editable-id=\"388\">Toggle FAQ</h1>\n                    </div>\n                    <div class=\"clearfix\"></div>\n                    <div id=\"toggle\" class=\"toggle-panel accordionStyles tab-content\">\n                        <div class=\"toggle-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" id=\"headingOne\">\n                                <span class=\"signSpan pseudoMinus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"389\"><a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-3o\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is Mobirise?</a></h4>\n                            </div>\n                            <div id=\"collapseOneextToggle1-3o\" class=\"panel-collapse noScroll collapse in\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"390\"><p>Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.</p></div>\n                            </div>\n                        </div>\n                        <div class=\"toggle-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" id=\"headingTwo\">\n                                <span class=\"signSpan pseudoPlus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"391\"><a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseTwoextToggle1-3o\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Is it good for me?</a></h4>\n                            </div>\n                            <div id=\"collapseTwoextToggle1-3o\" class=\"panel-collapse noScroll collapse\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"392\"><p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p></div>\n                            </div>\n                        </div>\n                        <div class=\"toggle-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" id=\"headingThree\">\n                                <span class=\"signSpan pseudoPlus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"393\"><a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseThreeextToggle1-3o\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Why Mobirise?</a></h4>\n                            </div>\n                            <div id=\"collapseThreeextToggle1-3o\" class=\"panel-collapse noScroll collapse\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"394\"><p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p><br><br><p><br></p></div>\n                            </div>\n                        </div>\n                        \n                     <iframe width=\"640px\" height=\"480px\" src=\"https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vGk2xQMm3hJLsrKLVFb_fNNUQTdBR1dFN1FSVFBBNFI5R0FSMzg4MEg5US4u&amp;embed=true\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" style=\"border: none; max-width:100%; max-height:100vh\" allowfullscreen=\"\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" msallowfullscreen=\"\"> </iframe>   \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section extToggle1 mbr-after-navbar\" data-rv-view=\"45\" style=\"background-color: rgb(255, 255, 255); padding-top: 100px; padding-bottom: 100px;\">\n\n    \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-10 col-md-offset-1\">\n                    <div class=\"section-head text-center space30\">\n                        <h1 class=\"mbr-editable-content\" code-editable-id=\"1072\">Toggle FAQ</h1>\n                    </div>\n                    <div class=\"clearfix\"></div>\n                    <div id=\"toggle\" class=\"toggle-panel accordionStyles tab-content\">\n                        <div class=\"toggle-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" id=\"headingOne\">\n                                <span class=\"signSpan pseudoMinus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"1073\"><a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-3o\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is Mobirise?</a></h4>\n                            </div>\n                            <div id=\"collapseOneextToggle1-3o\" class=\"panel-collapse noScroll collapse in\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"1074\"><p>\n                                    </p><div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1075\">HOT!</div>\n                      <div class=\"card-title\">\n                        \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"1076\">Conference Attendance Consultant</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"1077\"></small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"1078\">£</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"1079\">40</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"1080\">&nbsp;</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"1081\"><strong>Consultant attendence for ENT Wales Members</strong></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"1082\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul></div>\n                        \n                        <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"5CY6Y8HSNCFX8\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal – The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_GB/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n               </div>       \n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1083\">HOT!</div>\n                      <div class=\"card-title\">\n                      \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"1084\">BUSINESS</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"1085\">Description</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"1086\">$</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"1087\">10</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"1088\">monthly</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"1089\">Mobirise is perfect for non-techies who are not familiar with web development.</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"1090\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"1091\">DEMO</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1092\">HOT!</div>\n                      <div class=\"card-title\">\n                        \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"1093\">PREMIUM</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"1094\">Description</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"1095\">$</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"1096\">10</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"1097\">monthly</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"1098\">Mobirise is perfect for non-techies who are not familiar with web development.</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"1099\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"1100\">DEMO</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1101\">HOT!</div>\n                      <div class=\"card-title\">\n                        \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"1102\">ULTIMATE</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"1103\">Description</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"1104\">$</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"1105\">10</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"1106\">monthly</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"1107\">Mobirise is perfect for non-techies who are not familiar with web development.</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"1108\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"1109\">DEMO</a></div>\n                    </div>\n                </div>\n            </div>\n          </div>\n                                        \n                                        \n                                \n                            </div>\n                        </div>\n                        <div class=\"toggle-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" id=\"headingTwo\">\n                                <span class=\"signSpan pseudoPlus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"1110\"><a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseTwoextToggle1-3o\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Is it good for me?</a></h4>\n                            </div>\n                            <div id=\"collapseTwoextToggle1-3o\" class=\"panel-collapse noScroll collapse\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"1111\"><p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p></div>\n                            </div>\n                        </div>\n                        <div class=\"toggle-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" id=\"headingThree\">\n                                <span class=\"signSpan pseudoPlus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"1112\"><a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseThreeextToggle1-3o\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Why Mobirise?</a></h4>\n                            </div>\n                            <div id=\"collapseThreeextToggle1-3o\" class=\"panel-collapse noScroll collapse\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"1113\"><p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p><br><br><p><br></p></div>\n                            </div>\n                        </div>\n                        \n                     <iframe width=\"640px\" height=\"480px\" src=\"https://forms.office.com/Pages/ResponsePage.aspx?id=MEu3vWiVVki9vwZ1l3j8vGk2xQMm3hJLsrKLVFb_fNNUQTdBR1dFN1FSVFBBNFI5R0FSMzg4MEg5US4u&amp;embed=true\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" style=\"border: none; max-width:100%; max-height:100vh\" allowfullscreen=\"\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" msallowfullscreen=\"\"> </iframe>   \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n</div></div></section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
           "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "0",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "4",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "60",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "80",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "100",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-3q"
         },
         {
           "_tags": [
@@ -5055,6 +5206,102 @@
           },
           "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2019<br>",
           "_anchor": "footer1-3o"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "iconsColorBG": "@primaryColor",
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/extFeatures3/images/img_extFeatures6_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.6
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "layers",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "expand",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "compass",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "et-line"
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures6",
+          "_anchor": "extFeatures6-3t",
+          "_styles": {
+            ".card-img": {
+              "background-color": "@primaryColor !important"
+            }
+          }
         },
         {
           "_params": {
@@ -5165,7 +5412,7 @@
           ],
           "_name": "extPricingTable1",
           "_anchor": "extPricingTable1-3n",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full extPricingTable1 mbr-after-navbar\" data-rv-view=\"394\" style=\"padding-top: 120px; padding-bottom: 120px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"395\">Conference Booking</h3>\n                  <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"396\">Following payment you will be forwarded to a form which will collect details including special dietary requirements. You will recieve a confirmation email following successful booking. Please use the contact below page below if you do not.</small>\n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"397\">HOT!</div>\n                      <div class=\"card-title\">\n                        \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"398\">Conference Attendance Consultant</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"399\"></small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"400\">£</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"401\">40</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"402\">&nbsp;</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"403\">Consultant attendence for ENT Wales Members</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"404\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul></div>\n                        \n                        <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"5CY6Y8HSNCFX8\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal – The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_GB/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n               </div>       \n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"405\">HOT!</div>\n                      <div class=\"card-title\">\n                      \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"406\">BUSINESS</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"407\">Description</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"408\">$</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"409\">10</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"410\">monthly</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"411\">Mobirise is perfect for non-techies who are not familiar with web development.</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"412\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"413\">DEMO</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"414\">HOT!</div>\n                      <div class=\"card-title\">\n                        \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"415\">PREMIUM</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"416\">Description</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"417\">$</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"418\">10</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"419\">monthly</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"420\">Mobirise is perfect for non-techies who are not familiar with web development.</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"421\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"422\">DEMO</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"423\">HOT!</div>\n                      <div class=\"card-title\">\n                        \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"424\">ULTIMATE</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"425\">Description</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"426\">$</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"427\">10</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"428\">monthly</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"429\">Mobirise is perfect for non-techies who are not familiar with web development.</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"430\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"431\">DEMO</a></div>\n                    </div>\n                </div>\n            </div>\n          </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full extPricingTable1 mbr-after-navbar\" data-rv-view=\"394\" style=\"padding-top: 120px; padding-bottom: 120px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"1364\">Conference Booking</h3>\n                  <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"1365\">Following payment you will be forwarded to a form which will collect details including special dietary requirements. You will recieve a confirmation email following successful booking. Please use the contact below page below if you do not.</small>\n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1366\">HOT!</div>\n                      <div class=\"card-title\">\n                        \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"1367\">Conference Attendance Consultant</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"1368\"></small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"1369\">£</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"1370\">40</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"1371\">&nbsp;</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"1372\">Consultant attendence for ENT Wales Members</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"1373\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul></div>\n                        \n                        <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"5CY6Y8HSNCFX8\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal – The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_GB/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n               </div>       \n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1374\">HOT!</div>\n                      <div class=\"card-title\">\n                      \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"1375\">BUSINESS</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"1376\">Description</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"1377\">$</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"1378\">10</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"1379\">monthly</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"1380\">Mobirise is perfect for non-techies who are not familiar with web development.</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"1381\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"1382\">DEMO</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1383\">HOT!</div>\n                      <div class=\"card-title\">\n                        \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"1384\">PREMIUM</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"1385\">Description</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"1386\">$</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"1387\">10</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"1388\">monthly</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"1389\">Mobirise is perfect for non-techies who are not familiar with web development.</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"1390\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"1391\">DEMO</a></div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12  col-md-6 col-xl-3\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"1392\">HOT!</div>\n                      <div class=\"card-title\">\n                        \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"1393\">ULTIMATE</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"1394\">Description</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"1395\">$</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"1396\">10</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"1397\">monthly</small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"1398\">Mobirise is perfect for non-techies who are not familiar with web development.</small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"1399\"><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul></div>\n                      <div class=\"mbr-plan-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"1400\">DEMO</a></div>\n                    </div>\n                </div>\n            </div>\n          </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
@@ -5187,9 +5434,9 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
-            "showIcons": true,
+            "showTitle": false,
+            "showSubtitle": false,
+            "showIcons": false,
             "firstType": "",
             "secondType": "",
             "thirdType": "primary",
@@ -5213,29 +5460,29 @@
           "title": "PRICING TABLE",
           "subtitle": "Pricing table with four columns and solid color background.",
           "title1": "STANDARD",
-          "title2": "BUSINESS",
-          "title3": "PREMIUM",
-          "title4": "ULTIMATE",
+          "title2": "",
+          "title3": "Consultant",
+          "title4": "Consultant and Partner&nbsp;",
           "subtitle1": "Description",
           "subtitle2": "Description",
-          "subtitle3": "Description",
-          "subtitle4": "Description",
+          "subtitle3": "Attendance on Friday, Saturday and Friday evening meal",
+          "subtitle4": "Attendance at Friday and Saturday including meal for 2",
           "label1": "HOT!",
           "label2": "HOT!",
           "label3": "HOT!",
           "label4": "HOT!",
           "currency1": "$",
           "currency2": "$",
-          "currency3": "$",
-          "currency4": "$",
+          "currency3": "£",
+          "currency4": "£",
           "price1": "<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0.01&amp;item_name=evening+dinner&amp;currency_code=GBP\" target=\"_blank\">10</a>",
           "price2": "10",
-          "price3": "10",
-          "price4": "10",
+          "price3": "150",
+          "price4": "190",
           "period1": "monthly",
           "period2": "monthly",
-          "period3": "monthly",
-          "period4": "monthly",
+          "period3": "&nbsp;",
+          "period4": "&nbsp;",
           "description1": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
@@ -5245,6 +5492,269 @@
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://www.dropbox.com/sh/v50s4geodyp0kub/AAB1xeZZBrhvY8QKCVLsypela?dl=0\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DEMO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extPricingTable1",
+          "_anchor": "extPricingTable1-3n"
+        }
+      ]
+    },
+    "payment.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "payment",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/entwaleslogo-med-284x128-14.png",
+              "height": 128,
+              "alt": "ENT Wales",
+              "link": "index.html",
+              "title": "ENT Wales",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About.html\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Past Conferences.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Past Conferences</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html\" aria-expanded=\"false\">2018</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-38\" aria-expanded=\"false\">2017</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-c\">2016</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-t\">2015</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Past Conferences.html#content5-1h\">2014</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Awards.html\" aria-expanded=\"false\">Awards</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Home.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Training</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Medical Students.html\">Medical Student</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"juniordoctors.html\">Junior Doctors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Registrar.html\">Registrar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"welshtraining.html\">Training in Wales</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Research.html\" aria-expanded=\"false\">Research</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"page11.html\">Abstract Submission</a></li>",
+          "_anchor": "ext_menu-3x"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<a href=\"Privacy Policy.html\">Privacy Policy and cookies</a> Copyright ENT Wales 2019<br>",
+          "_anchor": "footer1-3y"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "collapseAll": true,
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>Conference Booking and Payment</b>",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_1938\" data-core=\"\" href=\"#collapseOne_1938\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Consultant</a>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_1938\" data-core=\"\" href=\"#collapseTwo_1938\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">ENT Specialist Trainees</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_1938\" data-core=\"\" href=\"#collapseThree_1938\" aria-expanded=\"true\" aria-controls=\"collapseThree\">All other Junior Doctors and Allied Health Professionals</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p>Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.</p>",
+          "text2": "<p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p>",
+          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extAccordion1",
+          "_anchor": "extAccordion1-40"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showIcons": false,
+            "firstType": "",
+            "secondType": "",
+            "thirdType": "hidden",
+            "fourthType": "hidden",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff;",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRICING TABLE",
+          "subtitle": "Pricing table with four columns and solid color background.",
+          "title1": "Consultant Attendance",
+          "title2": "Consultant Attendance + Partner&nbsp;",
+          "title3": "PREMIUM",
+          "title4": "ULTIMATE",
+          "subtitle1": "Including Friday, Saturday as well as Evening meal",
+          "subtitle2": "Attendance on Friday, Saturday as well as Evening meal for two",
+          "subtitle3": "Description",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "",
+          "currency2": "",
+          "currency3": "",
+          "currency4": "$",
+          "price1": "£150",
+          "price2": "£190",
+          "price3": "£230",
+          "price4": "10",
+          "period1": "",
+          "period2": "",
+          "period3": "",
+          "period4": "monthly",
+          "description1": "for replacing",
+          "description2": "for replacing",
+          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "list1": "",
+          "list2": "",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">DEMO</a>",
@@ -5293,7 +5803,163 @@
             "Extension"
           ],
           "_name": "extPricingTable1",
-          "_anchor": "extPricingTable1-3n"
+          "_anchor": "extPricingTable1-42",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full extPricingTable1 mbr-after-navbar\" data-rv-view=\"2665\" style=\"padding-top: 0px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  \n                  \n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12 col-md-6 col-xl-6\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"2738\">HOT!</div>\n                      <div class=\"card-title\">\n                        \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"2739\">Consultant Attendance</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"2740\">Including Friday, Saturday as well as Evening meal</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"2741\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"2742\">£150\n                                <br></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"2743\"></small>\n                          </div>\n              \n                          \n                          <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"8DL9DTWLQ4DG4\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal – The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_GB/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\n\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"2744\"></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-6\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      <div class=\"mbr-plan-label mbr-editable-content\" style=\"display: none;\" code-editable-id=\"2745\">HOT!</div>\n                      <div class=\"card-title\">\n                      \n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"2746\">Consultant Attendance + Partner&nbsp;</h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"2747\">Attendance on Friday, Saturday as well as Evening meal for two</small>\n                      </div>\n                      <span class=\"bottom_line\"></span>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"2748\"></span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"2749\">£190</span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"2750\"></small>\n                          </div>\n                          \n                          \n                          <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"8DL9DTWLQ4DG4\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal – The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_GB/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\n                          \n                          \n\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"2751\"></div>\n                      \n                    </div>\n                </div>\n            </div>\n            \n            \n          </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": 2,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Consultant",
+          "subtitle1": "Winner of Senior Trainee Presentation<br><br>",
+          "caption1": "£150",
+          "title2": "Dan",
+          "subtitle2": "Winner of Junior Presentation Prize",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Joanna",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-44",
+          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding mbr-after-navbar\" data-rv-view=\"2797\" style=\"background-color: rgb(255, 255, 255);\">\n\n    \n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-6\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n              <div class=\"card cart-block\">\n                  \n                  <div class=\"card-block\">\n                    <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"2877\">Consultant</h4>\n                    <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"2878\">Including Friday, Saturday as well as Evening meal</h5>\n                    <p class=\"card-text mbr-editable-content\" code-editable-id=\"2879\"><strong>£150 </strong></p>\n                    <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"8DL9DTWLQ4DG4\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal – The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_GB/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-6\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    \n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"2880\">Consultant Attendance + Partner&nbsp;</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"2881\">Attendance on Friday, Saturday as well as Evening meal for two</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"2882\"><strong>£190</strong></p>\n                        \n                        <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"8DL9DTWLQ4DG4\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal – The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_GB/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n        \n        \n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n  font-size: 40px;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "collapseAll": true,
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>Conference Booking and Payment</b>",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_1938\" data-core=\"\" href=\"#collapseOne_1938\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Consultant</a>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_1938\" data-core=\"\" href=\"#collapseTwo_1938\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">ENT Specialist Trainees</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_1938\" data-core=\"\" href=\"#collapseThree_1938\" aria-expanded=\"true\" aria-controls=\"collapseThree\">All other Junior Doctors and Allied Health Professionals</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p>Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.</p>",
+          "text2": "<p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p>",
+          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extAccordion1",
+          "_anchor": "extAccordion1-43",
+          "_customHTML": "<section class=\"mbr-section extAccordion1 mbr-after-navbar\" data-rv-view=\"2731\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 0px;\">\n\n    \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-10 col-md-offset-1\">\n                    <div class=\"section-head text-center space30\">\n                        <h1 class=\"mbr-editable-content\" code-editable-id=\"3003\"><strong>Conference Booking and Payment</strong></h1>\n                    </div>\n                    <div class=\"clearfix\"></div>\n                    <div id=\"accordion_2161\" class=\"panel-group accordionStyles accordion\" role=\"tablist\" aria-multiselectable=\"true\">\n                      <div class=\"accordion-group\">\n                        <div class=\"panel panel-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" role=\"tab\" id=\"headingOne\">\n                                <span class=\"signSpan pseudoPlus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"3004\"><a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2161\" data-core=\"\" href=\"#collapseOne_2161\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Consultant</a></h4>\n                            </div>\n                            <div id=\"collapseOne_2161\" class=\"panel-collapse noScroll collapse\" role=\"tabpanel\" aria-labelledby=\"headingOne\" aria-expanded=\"false\">\n                                \n                                \n                                \n                                \n                                \n<section class=\"mbr-cards mbr-section mbr-section-nopadding mbr-after-navbar\" data-rv-view=\"2797\" style=\"background-color: rgb(255, 255, 255);\">\n\n    \n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-6\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n              <div class=\"card cart-block\">\n                  \n                  <div class=\"card-block\">\n                    <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"3005\">Consultant</h4>\n                    <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"3006\">Including Friday, Saturday as well as Evening meal</h5>\n                    <p class=\"card-text mbr-editable-content\" code-editable-id=\"3007\"><strong>£150 </strong></p>\n                    <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"8DL9DTWLQ4DG4\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal – The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_GB/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-6\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    \n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"3008\">Consultant Attendance + Partner&nbsp;</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"3009\">Attendance on Friday, Saturday as well as Evening meal for two</h5>\n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"3010\"><strong>£190</strong></p>\n                        \n                        <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n<input type=\"hidden\" name=\"hosted_button_id\" value=\"8DL9DTWLQ4DG4\">\n<input type=\"image\" src=\"https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal – The safer, easier way to pay online!\">\n<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_GB/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n</form>\n\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n        \n        \n    </div>\n</section>\n                                \n                                \n                                \n                                \n                                \n                            </div>\n                        </div>\n                        <div class=\"panel panel-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" role=\"tab\" id=\"headingTwo\">\n                                <span class=\"signSpan pseudoPlus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"3011\"><a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_2161\" data-core=\"\" href=\"#collapseTwo_2161\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">ENT Specialist Trainees</a></h4>\n                            </div>\n                            <div id=\"collapseTwo_2161\" class=\"panel-collapse noScroll collapse\" role=\"tabpanel\" aria-labelledby=\"headingTwo\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"3012\"><p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p></div>\n                            </div>\n                        </div>\n                        <div class=\"panel panel-default\" style=\"display: block;\">\n                            <div class=\"panel-heading\" role=\"tab\" id=\"headingThree\">\n                                <span class=\"signSpan pseudoPlus\"></span>\n                                <h4 class=\"panel-title mbr-editable-content\" code-editable-id=\"3013\"><a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_2161\" data-core=\"\" href=\"#collapseThree_2161\" aria-expanded=\"true\" aria-controls=\"collapseThree\">All other Junior Doctors and Allied Health Professionals</a></h4>\n                            </div>\n                            <div id=\"collapseThree_2161\" class=\"panel-collapse noScroll collapse\" role=\"tabpanel\" aria-labelledby=\"headingThree\">\n                                <div class=\"panel-body mbr-editable-content\" code-editable-id=\"3014\"><p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p></div>\n                            </div>\n                        </div>\n                        \n                        \n                        \n                      </div>    \n                    </div>\n                </div>\n            </div>\n        </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         }
       ]
     }

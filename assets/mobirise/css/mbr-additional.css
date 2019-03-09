@@ -1609,7 +1609,7 @@ h6,
 }
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 #header3-19 .mbr-section-title,
 #header3-19 .mbr-section-subtitle {
@@ -1691,6 +1691,9 @@ h6,
 #ext_menu-3n .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
+#extFeatures6-3t .card-img {
+  background-color: #ffffff !important;
+}
 #custom-html-3q {
   /* Type valid CSS here */
 }
@@ -1702,4 +1705,68 @@ h6,
 #custom-html-3q p {
   font-size: 60px;
   color: #777;
+}
+#ext_menu-3x .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-3x .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-3x .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-3x .close-icon::before,
+#ext_menu-3x .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-3x .link,
+#ext_menu-3x .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-3x .link {
+  font-size: 0.75rem;
+}
+#ext_menu-3x .dropdown-item,
+#ext_menu-3x .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-3x .link:hover,
+#ext_menu-3x .dropdown-item:hover,
+#ext_menu-3x .link:focus,
+#ext_menu-3x .dropdown-item:focus {
+  color: #ffffff;
+}
+#ext_menu-3x .link[aria-expanded="true"],
+#ext_menu-3x .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-3x .nav-dropdown-sm .link:focus,
+#ext_menu-3x .nav-dropdown-sm .link:hover,
+#ext_menu-3x .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-3x .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-3x .navbar,
+#ext_menu-3x .nav-dropdown-sm,
+#ext_menu-3x .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-3x .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-3x .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-3x .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-3x .bg-color.transparent.opened .link:hover,
+#ext_menu-3x .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#ext_menu-3x .link[aria-expanded="true"],
+#ext_menu-3x .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#features3-44 P {
+  font-size: 40px;
 }
