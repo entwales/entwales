@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "welshtraining.html",
     "versionFirst": "3.6.1",
     "uniqCompNum": 131,
     "versionPublish": "4.9.6",
@@ -4128,7 +4128,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#ffffff!important"
             }
           },
           "_name": "ext.menu",
@@ -4217,22 +4217,6 @@
             "visibleSlides": "2",
             "slides": [
               {
-                "active": false,
-                "text": "<p>“Its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
-                "authorName": "John Smith",
-                "authorBio": "Developer",
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face1.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
-                  }
-                }
-              },
-              {
                 "active": true,
                 "text": "<p>\"In 2008 I entered Higher Surgical Training in Otolaryngology in Wales.  The experience, professionally and personally, was strongly positive and led to a happy and seamless progression to being a young Consultant in Wales.  During training the Consultant body were approachable, affable and expert.  The surgical exposure was broad and complex and by the end of the training programme I had completed more than 100 major head and neck cases, more than 100 major rhinological cases and more than 100 mastoid cases as principal surgeon.  Living in Wales is marvelous - the natural beauty of the country is well recognised and happily ubiquitous; the people are kind and humorous; and the cities are thriving.  Finally, and most importantly, the training was genuinely 'family-friendly' and never did I feel any pressure to put work ahead of family.  Over a decade later, I am a young Consultant in Wales and wholeheartedly recommend the country as a place to train, live and progress.”</p>",
                 "authorName": "Sam Fishpool",
@@ -4247,40 +4231,6 @@
                     "active": true,
                     "alt": "",
                     "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
-                "authorName": "Suffian A.",
-                "authorBio": "User",
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/img-1792-116x160.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true,
-                    "alt": "",
-                    "title": ""
-                  }
-                }
-              },
-              {
-                "active": false,
-                "text": "<p>\"Grandiose!!!! Excellent free website maker - testing under an hour and hooked me. While it is a great alternative for designers who are with short time and produce things for small customers.\"</p>",
-                "authorName": "Alex Higgins",
-                "authorBio": "User",
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/face4.jpg",
-                    "class": "img-circle",
-                    "link": "https://mobirise.com",
-                    "height": 160,
-                    "width": 160,
-                    "active": true
                   }
                 }
               }
