@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page15.html",
+    "currentPage": "papers.html",
     "versionFirst": "3.6.1",
     "uniqCompNum": 134,
     "versionPublish": "4.9.6",
@@ -5925,7 +5925,7 @@
         }
       ]
     },
-    "page15.html": {
+    "papers.html": {
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "papers",
